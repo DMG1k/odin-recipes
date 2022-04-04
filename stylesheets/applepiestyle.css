@@ -1,0 +1,30 @@
+.apple-pie-nav {
+    padding: 10px 10px 10px 10px;
+    background-color: #809da8;
+}
+
+
+.apple-pie-nav ul  {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    list-style: none; 
+    justify-content: center;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+.apple-pie-nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 50px;
+}
+
+.apple-pie-intro  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.apple-pie-intro h1 {
+    font-size: 40px;
+}
