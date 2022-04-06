@@ -1,10 +1,14 @@
+* {
+    background-color: #809da8;
+}
+
+
 .apple-pie-nav {
     padding: 10px 10px 10px 10px;
     background-color: #809da8;
 }
 
-
-.apple-pie-nav ul  {
+.apple-pie-nav h2 {
     display: flex;
     align-items: center;
     flex-direction: row;
@@ -24,7 +28,71 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: #aac6d1;
 }
 .apple-pie-intro h1 {
     font-size: 40px;
+    background-color:#aac6d1;
+}
+
+.apple-pie-ingredient-direction-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: #aac6d1;
+}
+
+.ingredient-section h3 {
+    display: flex;
+    justify-content: center;
+}
+
+.apple-pie-direction-section h3 {
+    display: flex;
+    justify-content: center;
+}
+
+.apple-pie-direction-section ol li {
+    padding: 10px 0px 10px 0px;
+}
+
+.ingredient-section  li {
+    padding: 10px 0px 10px 0px;
+}
+
+.apple-pie-image {
+    border: solid black 1px ;
+    height: 400px;
+}
+
+.apple-pie-tag-line {
+    background-color: #aac6d1;
+}
+
+.apple-pie-desc {
+    background-color: #aac6d1;
+}
+
+.ingredient-section {
+    background-color: #aac6d1;
+}
+
+.ingredient-section ul,li {
+    background-color: #aac6d1;
+}
+
+.ingredient-section-title {
+    background-color: #aac6d1;
+}
+
+.apple-pie-direction-section-title {
+    background-color: #aac6d1;
+}
+
+.apple-pie-direction-section {
+    background-color: #aac6d1;
+}
+
+.apple-pie-direction-section ol,li {
+    background-color: #aac6d1;
 }
