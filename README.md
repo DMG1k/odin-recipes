@@ -1,5 +1,5 @@
 # Project Title: odin-recipes
 
-## Project Reason: This project was made to showcase my current knowledge in HTML.
+### Project Reason: This project was made to showcase my current knowledge in HTML and CSS.
 
-## Introduction: This project will display different recipies using HTML and will be updated in the future with CSS to make it more visually appealing. 
+### Introduction: The site will display different 3 different recipes and will have a homepage linking to all of the recipes. 
