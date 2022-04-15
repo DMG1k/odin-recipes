@@ -2,13 +2,12 @@
     background-color: #809da8;
 }
 
-
-.waffle-nav {
+.spanish-rice-nav {
     padding: 10px 10px 10px 10px;
     background-color: #809da8;
 }
 
-.waffle-nav h2 {
+.spanish-rice-nav h2 {
     display: flex;
     align-items: center;
     flex-direction: row;
@@ -18,24 +17,24 @@
     margin: 0px 0px 0px 0px;
 }
 
-.waffle-nav a {
+.spanish-rice-nav a {
     text-decoration: none;
     color: black;
     font-size: 50px;
 }
 
-.waffle-intro  {
+.spanish-rice-intro  {
     display: flex;
     flex-direction: column;
     align-items: center;
     background-color: #aac6d1;
 }
-.waffle-intro h1 {
+.spanish-rice-intro h1 {
     font-size: 40px;
     background-color:#aac6d1;
 }
 
-.waffle-ingredient-direction-container {
+.spanish-rice-ingredient-direction-container {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -60,16 +59,16 @@
     padding: 10px 0px 10px 0px;
 }
 
-.waffle-image {
+.spanish-rice-image {
     border: solid black 1px ;
     height: 400px;
 }
 
-.waffle-tag-line {
+.spanish-rice-tag-line {
     background-color: #aac6d1;
 }
 
-.waffle-desc {
+.spanish-rice-desc {
     background-color: #aac6d1;
 }
 
