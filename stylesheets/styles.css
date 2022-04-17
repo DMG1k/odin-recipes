@@ -1,3 +1,7 @@
+* {
+    background-color: #809da8;
+}
+
 nav {
     display: flex;
     justify-content: center ;
@@ -69,4 +73,8 @@ nav a {
 .waffle-img img {
     height: 300px;
     width: 250px;
+}
+
+a:hover {
+    color: rgba(239, 249, 253, .9)
 }
